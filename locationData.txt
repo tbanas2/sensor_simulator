@@ -1,0 +1,33 @@
+[{
+"name":"NNR",
+"minLat": 43.554381993113346,
+"maxLat": 43.55153295340189,
+"maxLong": -90.74779894505063,
+"minLong": -90.75363012326667,
+"density":20,
+"type":"private",
+"profile":"river valley"
+},
+{
+"name":"Kickapoo Reserve Area",
+"minLat": 43.654770025023886,
+"maxLat": 43.678693899516844,
+"maxLong": -90.57339674198548,
+"minLong": -90.61134082931571,
+"density":20,
+"type":"public recreation",
+"profile":"river valley"
+}
+,
+{
+"name":"Downtown Viroqua",
+"minLat": 43.544070957511074,
+"maxLat": 43.562111897166375,
+"maxLong": -90.89585156215949,
+"minLong": -90.89838843970736,
+"density":20,
+"type":"business district",
+"profile":"commercial"
+}
+]
+
